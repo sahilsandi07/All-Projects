@@ -10,7 +10,7 @@ while True:
         print(
             f"\nYou threw '{player_opt}', the computer threw '{computer_opt}'"
         )
-    
+    #NVKJVCNCN
     else:
         print(f"\nYou threw '{player_opt}', which is not a valid throw  :(")
     
